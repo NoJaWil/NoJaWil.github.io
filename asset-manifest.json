@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.544cd26d.css",
-    "main.js": "/static/js/main.c0e14451.js",
-    "static/js/787.e0e49593.chunk.js": "/static/js/787.e0e49593.chunk.js",
-    "static/media/heart.png": "/static/media/heart.68e101738a991b5d5969.png",
-    "index.html": "/index.html",
-    "main.544cd26d.css.map": "/static/css/main.544cd26d.css.map",
-    "main.c0e14451.js.map": "/static/js/main.c0e14451.js.map",
-    "787.e0e49593.chunk.js.map": "/static/js/787.e0e49593.chunk.js.map"
+    "main.css": "/nojawil.github.io/static/css/main.f68eec74.css",
+    "main.js": "/nojawil.github.io/static/js/main.bea81f86.js",
+    "static/js/787.e0e49593.chunk.js": "/nojawil.github.io/static/js/787.e0e49593.chunk.js",
+    "static/media/heart.png": "/nojawil.github.io/static/media/heart.fdc5946fc1679970aa68.png",
+    "index.html": "/nojawil.github.io/index.html",
+    "main.f68eec74.css.map": "/nojawil.github.io/static/css/main.f68eec74.css.map",
+    "main.bea81f86.js.map": "/nojawil.github.io/static/js/main.bea81f86.js.map",
+    "787.e0e49593.chunk.js.map": "/nojawil.github.io/static/js/787.e0e49593.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.544cd26d.css",
-    "static/js/main.c0e14451.js"
+    "static/css/main.f68eec74.css",
+    "static/js/main.bea81f86.js"
   ]
 }
