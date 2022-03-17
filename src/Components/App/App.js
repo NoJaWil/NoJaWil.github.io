@@ -1,21 +1,21 @@
-import logo from './logo.svg';
+import heart from './heart.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={heart} className="heart-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hey cutie!
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="hugs-link"
+          href="https://tenor.com/view/milk-and-mocha-bear-couple-line-hug-cant-breathe-gif-12687187"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Click me
         </a>
       </header>
     </div>
